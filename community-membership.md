@@ -18,9 +18,36 @@ Members are continuously active contributors in the community. Members are expec
 
 ## Requirements
 
+- Enabled two-factor authentication on their GitHub account
+- Have made multiple contributions to projects or community. Contribution may include, but is not limited to:
+  - Authoring or reviewing PRs on GitHub. At least one PR must be **merged**
+  - Filling or commenting on issues on GitHub
+  - Contributing to project, or community discussion (e.g. meetings, Discord)
+- Have read the contributor guide # TODO
+- Sponsored by 2 members
+- Open an issue against the # TODO
+  - Ensure your sponsors are @mentioned on the issue
+  - Complete every item on the checklist
+- Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
+- Once your sponsors have responded, your request will be reviewed by the Schrödinger Hat Admin team. Any missing information will be requested.
+
 ## Responsabilities and privileges
 
+- Responsive to issues and PRs assigned to them
+- Active owner of code they have contributed (unless ownership is explicity transferred)
+  - Code is well tested
+  - Tests consistently pass
+  - Addresses bugs or issues discovered after code is accepted
+- Members can approve open PRs
+- Access limited Discord channels
+
 # Project Owner
+
+**Note:** This is a generalized high-level description of the role, and the specifics of the project owner role's responsibilities and related processes MUST be defined for individual prijects.
+
+Project Owners are the technical authority for a project in the Schrödinger Hat community. They *MUST* have demonstrated both good judgement and responsibility towards the health of that project. Project Owners *MUST* set technical direction and make or approve design decisions for their project - either directly or through delegation of these responsibilities.
+
+**Defined by:** entry in the [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) files
 
 ## Requirements
 
