@@ -12,6 +12,10 @@ Established community members are expected to demonstrate their adherence to the
 
 # Member
 
+Members are continuously active contributors in the community. Members are expected to remain active contributors to the community.
+
+**Defined by**: Member of the Schrödinger Hat GitHub organization and assigned to the Member group in the Discord server.
+
 ## Requirements
 
 ## Responsabilities and privileges
