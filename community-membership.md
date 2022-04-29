@@ -23,9 +23,9 @@ Members are continuously active contributors in the community. Members are expec
   - Authoring or reviewing PRs on GitHub. At least one PR must be **merged**
   - Filling or commenting on issues on GitHub
   - Contributing to project, or community discussion (e.g. meetings, Discord)
-- Have read the contributor guide # TODO
+- Have read the contributor guide
 - Sponsored by 2 members
-- Open an issue against the # TODO
+- Open an issue against this repository
   - Ensure your sponsors are @mentioned on the issue
   - Complete every item on the checklist
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
@@ -43,7 +43,7 @@ Members are continuously active contributors in the community. Members are expec
 
 # Project Owner
 
-**Note:** This is a generalized high-level description of the role, and the specifics of the project owner role's responsibilities and related processes MUST be defined for individual prijects.
+**Note:** This is a generalized high-level description of the role, and the specifics of the project owner role's responsibilities and related processes MUST be defined for individual prijects. A project can contain different subprojects with different Project Owners.
 
 Project Owners are the technical authority for a project in the Schrödinger Hat community. They *MUST* have demonstrated both good judgement and responsibility towards the health of that project. Project Owners *MUST* set technical direction and make or approve design decisions for their project - either directly or through delegation of these responsibilities.
 
@@ -51,7 +51,30 @@ Project Owners are the technical authority for a project in the Schrödinger Hat
 
 ## Requirements
 
+The process for becoming a Project Owner should be defined in the project itself.
+
+The following apply to the projet for which one would be an owner.
+
+- Deep understanding of the technical goals and direction of the subproject
+- Deep understanding of the technical domain of the project
+- Sustained contributions to design and direction by doing all of:
+  - Authoring and reviewing proposals
+  - Initiating, contributing and resolving discussions (emails, GitHub issues, meetings)
+  - Identifying subtle or complex issues in designs and implementation PRs
+- Directly contributed to the project through implementation and / or review
+
 ## Responsabilities and privileges
+
+- Make and approve technical design decisions for the project.
+- Set technical direction and priorities for the project.
+- Define milestones and releases.
+- Mentor and guide approvers, reviewers, and contributors to the project.
+- Ensure continued health of project
+  - Adequate test coverage to confidently release
+  - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
+- Ensure a healthy process for discussion and decision making is in place.
+- Work with other project owners to maintain the project's overall health and success holistically
+
 
 # Inactive members
 
