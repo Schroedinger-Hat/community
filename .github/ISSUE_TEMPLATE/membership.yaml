@@ -1,0 +1,63 @@
+name: Community Membership Request
+description: Request membership in Schrödinger Hat Community
+labels: [ "area/membership-request" ]
+title: "REQUEST: New membership for <your-GH-handle>"
+body:
+  - id: github
+    type: input
+    attributes:
+      label: GitHub Username
+      placeholder: e.g. @example_user
+    validations:
+      required: true
+  - id: discord
+    type: input
+    attributes:
+      label: Discord Username
+      placeholder: e.g. example_user#6969
+    validations:
+      required: false
+  - id: requirements
+    type: checkboxes
+    attributes:
+      label: Requirements
+      options:
+        - label: I have reviewed the community membership guidelines
+          required: true
+        - label: I have [enabled 2FA on my GitHub account](https://github.com/settings/security)
+          required: true
+        - label: I am actively contributing to 1 or more Schrödinger Hat projects
+          required: true
+        - label: I have two sponsors that meet the sponsor requirements listed in the community membership guidelines
+          required: true
+        - label: I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
+          required: true
+        - label: I have verified that my sponsors are actual member of the community
+          required: true
+  - id: sponsor_1
+    type: input
+    attributes:
+      label: "Sponsor 1"
+      description: GitHub handle of your sponsor
+      placeholder: e.g. @sponsor-1
+    validations:
+      required: true
+  - id: sponsor_2
+    type: input
+    attributes:
+      label: "Sponsor 2"
+      description: GitHub handle of your sponsor
+      placeholder: e.g. @sponsor-2
+    validations:
+      required: true
+  - id: contributions
+    type: textarea
+    attributes:
+      label: List of contributions to the Kubernetes project
+      placeholder: |
+        - PRs reviewed / authored
+        - Issues responded to
+        - Projects I am involved with
+        - Community contributions
+    validations:
+      required: true
