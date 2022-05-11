@@ -1,7 +1,7 @@
 name: Community Membership Request
-description: Request membership in Schrödinger Hat Community
+description: Request to become Contributor of Schrödinger Hat Community
 labels: [ "area/membership-request" ]
-title: "REQUEST: New membership for <your-GH-handle>"
+title: "REQUEST: New Contributor for <your-GH-handle>"
 body:
   - id: github
     type: input
@@ -32,7 +32,7 @@ body:
           required: true
         - label: I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
           required: true
-        - label: I have verified that my sponsors are actual member of the community
+        - label: I have verified that my sponsors are actual contributors of the community
           required: true
   - id: sponsor_1
     type: input

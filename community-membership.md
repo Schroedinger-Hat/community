@@ -4,17 +4,17 @@ This doc outlines the various responsibilities of contributor roles in Schrödin
 
 ## New contributors
 
-New contributors should be welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels.
+New contributors should be welcomed to the community by existing contributors, helped with PR workflow, and directed to relevant documentation and communication channels.
 
-## Established community members
+## Established contributors
 
-Established community members are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability. Role-specific expectations, responsibilities, and requirements are enumerated below.
+Established contributors are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc. Role-specific expectations, responsibilities, and requirements are enumerated below.
 
-# Member
+# Contributors
 
-Members are continuously active contributors in the community. Members are expected to remain active contributors to the community.
+Contributors are continuously active members of the community. Contributors are expected to remain active in the community.
 
-**Defined by**: Member of the Schrödinger Hat GitHub organization and assigned to the Member group in the Discord server.
+**Defined by**: Contributor of the Schrödinger Hat GitHub organization and assigned to the Contributor role in the Discord server.
 
 ## Requirements
 
@@ -24,7 +24,7 @@ Members are continuously active contributors in the community. Members are expec
   - Filling or commenting on issues on GitHub
   - Contributing to project, or community discussion (e.g. meetings, Discord)
 - Have read the contributor guide
-- Sponsored by 2 members
+- Sponsored by 2 contributors
 - Open an issue against this repository
   - Ensure your sponsors are @mentioned on the issue
   - Complete every item on the checklist
@@ -38,7 +38,7 @@ Members are continuously active contributors in the community. Members are expec
   - Code is well tested
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
-- Members can approve open PRs
+- Contributors can approve open PRs
 - Access limited Discord channels
 
 # Project Owner
@@ -76,12 +76,12 @@ The following apply to the projet for which one would be an owner.
 - Work with other project owners to maintain the project's overall health and success holistically
 
 
-# Inactive members
+# Inactive contributors
 
-_Members are continuously active contributors in the community._
+_Contributors are continuously active members of the community._
 
 A core principle in maintaining a healthy community is encouraging active participation. It is inevitable that people's focuses will change over time and they are not expected to be actively contributing forever.
 
-However, being a member of Schrödinger Hat comes with an elevated set of permissions. These capabilities should not be used by those that are not familiar with the current state of the community.
+However, being a Contributor of Schrödinger Hat comes with an elevated set of permissions. These capabilities should not be used by those that are not familiar with the current state of the community.
 
-Therefore members with an extended period away from the community with no activity inside of it will be removed and will be required to go through the community membership process again after re-familiarizing themselves with the current state.
+Therefore Contributors with an extended period away from the community with no activity inside of it will be removed and will be required to go through the community membership process again after re-familiarizing themselves with the current state.
