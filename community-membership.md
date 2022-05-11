@@ -12,7 +12,7 @@ Established contributors are expected to demonstrate their adherence to the prin
 
 # Contributors
 
-Contributors are continuously active in the community. Contributors are expected to remain active to the community.
+Contributors are continuously active members of the community. Contributors are expected to remain active in the community.
 
 **Defined by**: Contributor of the Schrödinger Hat GitHub organization and assigned to the Contributor role in the Discord server.
 
