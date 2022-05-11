@@ -78,7 +78,7 @@ The following apply to the projet for which one would be an owner.
 
 # Inactive contributors
 
-_Contributors are continuously active in the community._
+_Contributors are continuously active members of the community._
 
 A core principle in maintaining a healthy community is encouraging active participation. It is inevitable that people's focuses will change over time and they are not expected to be actively contributing forever.
 
