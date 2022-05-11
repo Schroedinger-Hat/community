@@ -38,7 +38,7 @@ Contributors are continuously active members of the community. Contributors are 
   - Code is well tested
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
-- Contributor can approve open PRs
+- Contributors can approve open PRs
 - Access limited Discord channels
 
 # Project Owner
