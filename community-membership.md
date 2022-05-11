@@ -29,7 +29,7 @@ Contributors are continuously active members of the community. Contributors are 
   - Ensure your sponsors are @mentioned on the issue
   - Complete every item on the checklist
 - Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
-- Once your sponsors have responded, your request will be reviewed by the Schrödinger Hat Contributors team. Any missing information will be requested.
+- Once your sponsors have responded, your request will be reviewed by the Schrödinger Hat Admin team. Any missing information will be requested.
 
 ## Responsabilities and privileges
 
