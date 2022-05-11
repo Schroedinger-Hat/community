@@ -24,7 +24,7 @@ Contributors are continuously active members of the community. Contributors are 
   - Filling or commenting on issues on GitHub
   - Contributing to project, or community discussion (e.g. meetings, Discord)
 - Have read the contributor guide
-- Sponsored by 2 contributor
+- Sponsored by 2 contributors
 - Open an issue against this repository
   - Ensure your sponsors are @mentioned on the issue
   - Complete every item on the checklist
