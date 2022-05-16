@@ -1,10 +1,10 @@
 # Community Membership
 
-Questo documento illustra le varie responsabilità dei ruoli di collaboratore in Schrödinger Hat.
+Questo documento illustra le varie responsabilità dei ruoli di un contributor in Schrödinger Hat.
 
 ## Nuovi contributors
 
-I nuovi collaboratori dovrebbero essere accolti nella community dai collaboratori esistenti, aiutati con il flusso di lavoro delle PR e indirizzati alla documentazione e ai canali di comunicazione pertinenti.
+I nuovi contributors dovrebbero essere accolti nella community dai contributors esistenti, aiutati con il workflow delle PR e guidati alla documentazione e ai canali di comunicazione pertinenti.
 
 ## Contributors ammessi
 
