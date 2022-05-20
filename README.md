@@ -1,6 +1,6 @@
 # Schrödinger Hat Community
 
-_Read this in other languages:_ [🇮🇹](https://github.com/Schrodinger-Hat/community/blob/main/ITA/README.md)
+_Read this in other languages:_ [Italian](https://github.com/Schrodinger-Hat/community/blob/main/ITA/README.md)
 
 Welcome to the Schrödinger Hat community!
 

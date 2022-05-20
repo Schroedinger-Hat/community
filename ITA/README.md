@@ -1,4 +1,6 @@
-#  Schrödinger Hat Community
+# Schrödinger Hat Community
+
+_Leggi questo in altre lingue:_ [English](https://github.com/Schrodinger-Hat/community/blob/main/README.md)
 
 Benvenuti nella community di Schrödinger Hat!
 
@@ -10,7 +12,7 @@ La pagina delle comunicazioni elenca i canali di comunicazione come la chat, i p
 
 ## Contribuire
 
-Il primo passo per contribuire è scegliere un progetto. 
+Il primo passo per contribuire è scegliere un progetto.
 
 Iniziate a unirvi al server Discord (https://discord.com/invite/RTXr8A3eFn) e fate due chiacchiere con gli altri utenti.
 
@@ -18,7 +20,6 @@ Ogni repo ha spesso una serie di problemi da risolvere "help wanted" o "good fir
 
 ## Membership
 
-Incoraggiamo tutti i membri a diventare collaboratori ufficiali. Il nostro obiettivo è far crescere una comunità attiva e sana di contributors, reviewers e code owners. Per saperne di più sui requisiti e le responsabilità, consultate  la nostra [pagina dedicata ai membri della Community](community-membership.md).
+Incoraggiamo tutti i membri a diventare collaboratori ufficiali. Il nostro obiettivo è far crescere una comunità attiva e sana di contributors, reviewers e code owners. Per saperne di più sui requisiti e le responsabilità, consultate la nostra [pagina dedicata ai membri della Community](community-membership.md).
 
 [Diventa un nuovo contributor](https://github.com/Schrodinger-Hat/community/issues/new/choose)
-
